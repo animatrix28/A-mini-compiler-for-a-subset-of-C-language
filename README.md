@@ -16,4 +16,4 @@ Step 4: Run gcc compipler to run the above lex and yacc file as- gcc lex.yy.c C_
 
 Step 5: Write your program in a notepad and save it with .c extension and then run the executable file with that c file as input- a.exe<file_name.c
 
-You can also refer to documentation.docx file to read more details about what is lex and yacc and how these files are created and defined and also how to execute the file. Advantage, disadvantage and improvement that can be done in the program is written in the document.
+You can also refer to documentation.docx file to read more details about what is lex and yacc and how these files are created and defined and also how to execute the file. Advantage, disadvantage, limitation and also improvement that can be done in the program is written in the document.
